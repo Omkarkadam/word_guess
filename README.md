@@ -1,3 +1,3 @@
 # word_guess
 
-It is word guess game built with html,css, and javascript.
+It is word guess game built with help of python
